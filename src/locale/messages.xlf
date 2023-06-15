@@ -2,12 +2,38 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en-US" datatype="plaintext" original="ng2.template">
     <body>
-      <trans-unit id="8304186443752356614" datatype="html">
+      <trans-unit id="5866254605255506989" datatype="html">
+        <source>English</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">English language</note>
+      </trans-unit>
+      <trans-unit id="7535527225967694107" datatype="html">
+        <source>Español</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">spain language</note>
+      </trans-unit>
+      <trans-unit id="4134147244760971282" datatype="html">
+        <source>Français</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">french language</note>
+      </trans-unit>
+      <trans-unit id="6129739043494421921" datatype="html">
         <source>Hello there. This is a code demo for Internationalization in Angular.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">9,10</context>
         </context-group>
+        <note priority="1" from="description"> This is an introduction to the application</note>
+        <note priority="1" from="meaning">user greetings </note>
       </trans-unit>
       <trans-unit id="8953033926734869941" datatype="html">
         <source>Name</source>
@@ -16,12 +42,14 @@
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8645331185220511890" datatype="html">
+      <trans-unit id="4233658417181850076" datatype="html">
         <source>What&apos;s your level of expertise?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">17,18</context>
         </context-group>
+        <note priority="1" from="description"> This is a select option that allows a user to select its level of experience</note>
+        <note priority="1" from="meaning">select options </note>
       </trans-unit>
       <trans-unit id="9217165227473626077" datatype="html">
         <source>Expertise</source>
